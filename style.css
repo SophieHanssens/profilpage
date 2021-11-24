@@ -67,6 +67,10 @@ a:hover {
 
 .img-circle {
   border-radius: 25% 10%;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .list-inline > li {
